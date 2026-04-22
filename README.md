@@ -2,9 +2,10 @@
 
 > **Live:** [completion-task.vercel.app](https://completion-task.vercel.app/)
 
-BTC/USD dashboard built as the Summer of Bitcoin 2026 application task. Price and candlesticks come from CoinGecko. Block height, halving countdown, and fee estimates come from mempool.space. 60-second polling with rate-limit-aware retry, and an offline / error / stale path on every card.
+BTC/USD dashboard -  Price and candlesticks come from CoinGecko. Block height, halving countdown, and fee estimates come from mempool.space. 60-second polling with rate-limit-aware retry, and an offline / error / stale path on every card.
 
 ---
+
 
 ## Features
 
