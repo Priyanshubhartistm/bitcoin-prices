@@ -75,7 +75,7 @@ index.html       — design tokens, component CSS, preloader markup
 ## Running locally
 
 ```bash
-git clone git@github.com:rx18-eng/completion-task.git
+git clone https://github.com/Priyanshubhartistm/bitcoin-prices.git
 cd completion-task
 npm install
 
